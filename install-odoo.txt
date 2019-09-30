@@ -11,7 +11,13 @@ git commit -m "V1.1"
 git remote add install-odoo.txt https://github.com/Meichon/installs.git
 git push -u install-odoo.txt master
 #configuracion de github#
-opciones de este
+Actualizacion de el mismo archivo!
+git init
+git add .
+git commit -m "version update v1.2"
+git push -u install-odoo.txt master
+git push -u  version1.0.txt master
+
 
 
 
