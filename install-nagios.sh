@@ -47,3 +47,4 @@ sudo systemctl restart httpd.service
 else
 read -n 1 -p "debes ser usuario root para instalar Nagios"
 fi
+
